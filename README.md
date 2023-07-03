@@ -1,4 +1,4 @@
-# LinkUp-Chat App Group Number - 82
+# Realtime chat application - Chat App Group Number - 82
 
 ### Individual Submission of - (```Aayush Kumar - 20BCY10045 - aayush.kumar2020@vitbhopal.ac.in```)
 
