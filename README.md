@@ -16,7 +16,7 @@ The chat application will leverage the power of Jetpack Compose, a modern toolki
 
 # Table of contents
 
-1. Assignment (all 3) - 
+1. Assignment (all 3) - [Assignments](https://github.com/smartinternz02/SI-GuidedProject-525364-1688112465/tree/main/Assignments)
 3. Project Files - [Final project in the following repo](https://github.com/smartinternz02/SI-GuidedProject-525364-1688112465/tree/main)
 4. Project Report (PDF) - [Report](https://github.com/smartinternz02/SI-GuidedProject-525364-1688112465/blob/main/Final%20Report/Final%20Report.pdf)
-5. Demo Video (A demonstration video about your project ) 
+5. Demo Video (A demonstration video about your project ) - 
